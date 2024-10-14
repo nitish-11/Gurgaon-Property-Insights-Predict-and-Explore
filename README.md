@@ -13,6 +13,7 @@ This project leverages web scraping and machine learning techniques to predict p
 ## Functionalities
 **Data Analysis:**
 - Price per sqft analysis done via Interactive Map
+![Price per Sqft Interactive Map](images/geomap.png)
 - Boxplot and Regression analysis separately for flats and houses available
 - Piechart Analysis of the Bedroom share per sector
 
