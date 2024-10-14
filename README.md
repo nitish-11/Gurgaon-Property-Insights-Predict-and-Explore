@@ -11,7 +11,14 @@ This project leverages web scraping and machine learning techniques to predict p
   - **[Access the Interactive App Here](link_to_your_streamlit_app)**
 
 ## Functionalities
+ - **Prediction System:** User input the parameters and Estimated price of the house or flat appears on the screen instantly
+ - **Data Analysis:**
+ - Price per sqft analysis done via Interactive Map
+ - Boxplot and Regression analysis seperately for flat and houses available
+ - Piechart Analysis of the Bedroom share per sector
 
+   - **Recommendator System:**
+   - 
 
 
 ## Technologies Used
