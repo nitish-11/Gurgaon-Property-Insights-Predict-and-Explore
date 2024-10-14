@@ -17,8 +17,9 @@ This project leverages web scraping and machine learning techniques to predict p
 - Piechart Analysis of the Bedroom share per sector
 
 **Recommendation System:**
-- Utilizes cosine similarity for property suggestions based on user preferences and proximity.
-   - 
+ - Utilizes cosine similarity for property suggestions based on user preferences and 
+   proximity.
+-
 
 
 ## Technologies Used
