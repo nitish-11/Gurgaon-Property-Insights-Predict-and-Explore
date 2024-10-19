@@ -12,20 +12,22 @@ This project leverages web scraping and machine learning techniques to predict p
   - **[Access the Interactive App Here](link_to_your_streamlit_app)**
 
 ## Functionalities
+
 **Data Analysis:**
-- Price per sqft analysis done via Interactive Map
-![Price per Sqft Interactive Map](images/geomap.png)
-- Piechart Analysis of the Bedroom share per sector
-![Piechart Analysis of the Bedroom share per sector](images/bhk_pie_chart.png)
+- Price per sqft analysis done via Interactive Map  
+  <img src="images/geomap.png" alt="Price per Sqft Interactive Map" width="300" />
+- Pie chart analysis of the bedroom share per sector  
+  <img src="images/bhk_pie_chart.png" alt="Pie chart Analysis of the Bedroom share per sector" width="300" />
 
 **Recommendation System:**
- - Utilizes cosine similarity to provide tailored suggestions based on weighted criteria specified by the user..
- ![Recommendation Engine](images/recommend.png)
+- Utilizes cosine similarity to provide tailored suggestions based on weighted criteria specified by the user.  
+  <img src="images/recommend.png" alt="Recommendation Engine" width="300" />
 
- **Proximity Based Searching:**
-- Recommends nearby societies based on user-defined proximity distance.
- ![Proximity Engine](images/location_and_radius.png)
+**Proximity-Based Searching:**
+- Recommends nearby societies based on user-defined proximity distance.  
+  <img src="images/location_and_radius.png" alt="Proximity Engine" width="300" />
 
+  
 ## Technologies Used
 - Python, Pandas, NumPy, Selenium, Beautiful Soup, Streamlit, Plotly, AWS
 
