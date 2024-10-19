@@ -17,15 +17,15 @@ This project leverages web scraping and machine learning techniques to predict p
 - Price per sqft analysis done via Interactive Map  
   <img src="images/geomap.png" alt="Price per Sqft Interactive Map" width="600" />
 - Pie chart analysis of the bedroom share per sector  
-  <img src="images/bhk_pie_chart.png" alt="Pie chart Analysis of the Bedroom share per sector" width="300" />
+  <img src="images/bhk_pie_chart.png" alt="Pie chart Analysis of the Bedroom share per sector" width="600" />
 
 **Recommendation System:**
 - Utilizes cosine similarity to provide tailored suggestions based on weighted criteria specified by the user.  
-  <img src="images/recommend.png" alt="Recommendation Engine" width="300" />
+  <img src="images/recommend.png" alt="Recommendation Engine" width="600" />
 
 **Proximity-Based Searching:**
 - Recommends nearby societies based on user-defined proximity distance.  
-  <img src="images/location_and_radius.png" alt="Proximity Engine" width="300" />
+  <img src="images/location_and_radius.png" alt="Proximity Engine" width="600" />
 
   
 ## Technologies Used
