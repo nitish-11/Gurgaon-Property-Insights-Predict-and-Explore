@@ -1,7 +1,7 @@
 # Gurgaon Property Insights: Predict and Explore
 
 ## Introduction
-This project leverages web scraping and machine learning techniques to predict property prices in Gurgaon, providing valuable insights for buyers and sellers in the real estate market.
+This project involves analyzing Gurgaon real estate data, applying machine learning models for price prediction, and implementing a recommendation system for property exploration. A Streamlit-based website was developed and hosted on AWS, providing users with predictive insights and personalized property suggestions.
 
 ## Key Features
 - **Data Scraping:** Collected 3,900 records from **MagicBricks** using Selenium and Beautiful Soup.
