@@ -15,7 +15,7 @@ This project leverages web scraping and machine learning techniques to predict p
 
 **Data Analysis:**
 - Price per sqft analysis done via Interactive Map  
-  <img src="images/geomap.png" alt="Price per Sqft Interactive Map" width="300" />
+  <img src="images/geomap.png" alt="Price per Sqft Interactive Map" width="500" />
 - Pie chart analysis of the bedroom share per sector  
   <img src="images/bhk_pie_chart.png" alt="Pie chart Analysis of the Bedroom share per sector" width="300" />
 
