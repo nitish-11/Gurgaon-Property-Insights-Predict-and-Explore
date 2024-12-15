@@ -6,7 +6,7 @@ This project leverages web scraping and machine learning techniques to predict p
 ## Key Features
 - **Data Scraping:** Collected 3,900 records from MagicBricks using Selenium and Beautiful Soup.
 - **Data Analysis:** Conducted univariate and multivariate analysis, including outlier detection and missing value imputation and applied feature selection method.
-- **Model Performance:** Achieved R² = 0.905 and MAE = 0.457 with Xgboost.
+- **Model Performance:** Achieved **R² = 0.905** and **MAE = 0.457** with Xgboost.
 -  **Recommendation System**: Implemented a cosine similarity-based recommendation engine that suggests properties based on price details, nearest locations, and top facilities.
 - **Interactive App:** Developed a Streamlit app hosted on AWS, featuring property rate visualization and a recommendation engine. 
   - **[Access the Interactive App Here](link_to_your_streamlit_app)**
