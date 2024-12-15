@@ -9,7 +9,7 @@ This project leverages web scraping and machine learning techniques to predict p
 - **Model Performance:** Achieved **R² = 0.905** and **MAE = 0.457** with Xgboost.
 -  **Recommendation System**: Implemented a cosine similarity-based recommendation engine that suggests properties based on price details, nearest locations, and top facilities.
 - **Interactive App:** Developed a Streamlit app hosted on AWS, featuring property rate visualization and a recommendation engine. 
-  - **[Access the Interactive App Here](link_to_your_streamlit_app)**
+  - **[Access the Interactive App Here](http://52.90.68.13:8503/)**
 
 
 ## Functionalities
