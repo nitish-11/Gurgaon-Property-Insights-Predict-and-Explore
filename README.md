@@ -3,7 +3,7 @@
 ## Introduction
 This project leverages web scraping and machine learning techniques to predict property prices in Gurgaon, providing valuable insights for buyers and sellers in the real estate market.
 
-  - **[Access the Interactive App Here](http://52.90.68.13:8501/)**
+  - **[Access the Interactive App Here](http://52.90.68.13:8501/)** *(click to open Streamlit Interface)*
 
 ## Key Features
 - **Data Scraping:** Collected 3,900 records from MagicBricks using Selenium and Beautiful Soup.
