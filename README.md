@@ -17,6 +17,8 @@ This project leverages web scraping and machine learning techniques to predict p
 ## Functionalities
 
 **Data Analysis:**
+- Price Prediction of the House via trained Model
+  <img src="images/predict.jpg" alt="Price per Sqft Interactive Map" width="600" />
 - Price per sqft analysis done via Interactive Map  
   <img src="images/geomap.png" alt="Price per Sqft Interactive Map" width="600" />
 - Pie chart analysis of the bedroom share per sector  
